@@ -1,0 +1,4 @@
+*.bas linguist-language=Visual Basic
+*.frm linguist-language=Visual Basic
+*.cls linguist-language=Visual Basic
+*.xlsm linguist-vendored
